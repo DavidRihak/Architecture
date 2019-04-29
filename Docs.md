@@ -17,7 +17,7 @@ The second is a pointer to the main Python category here on Dev Center:
 ### Dynos
 [Free Dynos](https://devcenter.heroku.com/articles/free-dyno-hours)
 
-[Dyno Types]https://devcenter.heroku.com/articles/dyno-types
+[Dyno Types](https://devcenter.heroku.com/articles/dyno-types)
 
 ### Add ons 
 [Getting Started with Python Add-ons](https://devcenter.heroku.com/articles/getting-started-with-python#provision-add-ons)
