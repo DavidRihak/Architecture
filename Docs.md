@@ -3,8 +3,11 @@
 ## Heroku
 
 ### Basics
-You now know how to deploy an app, change its configuration, view logs, scale, and attach add-ons.
-Here’s some recommended reading. The first, an article, will give you a firmer understanding of the basics. The second is a pointer to the main Python category here on Dev Center:
+#####You now know how to deploy an app, change its configuration, view logs, scale, and attach add-ons.
+Here’s some recommended reading. 
+#####The first, an article, will give you a firmer understanding of the basics. 
+#####The second is a pointer to the main Python category here on Dev Center:
+##### Links:
 https://devcenter.heroku.com/articles/how-heroku-works
 https://devcenter.heroku.com/articles/deploying-python
 https://devcenter.heroku.com/categories/python-support
