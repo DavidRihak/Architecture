@@ -10,6 +10,9 @@ https://devcenter.heroku.com/articles/dyno-types
 https://devcenter.heroku.com/articles/getting-started-with-python#provision-add-ons
 https://elements.heroku.com/addons/categories/data-stores
 
+### Postgres & Heroku
+https://devcenter.heroku.com/articles/heroku-postgresql
+
 
 ## Git
 https://guides.github.com/activities/hello-world/
@@ -20,4 +23,5 @@ https://help.github.com/en/articles/pushing-to-a-remote
 
 ## PostgresSQL
 https://postgresapp.com
+
 
