@@ -9,7 +9,9 @@ The first, an article, will give you a firmer understanding of the basics.
 The second is a pointer to the main Python category here on Dev Center:
 
 [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
 [Deploying Python and Django Apps on Heroku](https://devcenter.heroku.com/articles/deploying-python)
+
 [Python](https://devcenter.heroku.com/categories/python-support)
 
 ### Dynos
